@@ -1,0 +1,23 @@
+{
+  "name": "express-serve-json-file",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nriesco/express-serve-json-file.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nriesco/express-serve-json-file/issues"
+  },
+  "homepage": "https://github.com/nriesco/express-serve-json-file#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
